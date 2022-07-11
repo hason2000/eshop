@@ -1,0 +1,17 @@
+// require('./jquery');
+// require('./bootstrap.min.js');
+// require('./gmaps');
+// require('./contact');
+// require('./price-range');
+// require('./jquery.scrollUp.min.js');
+// require('./jquery.prettyPhoto');
+// require('./html5shiv');
+// require('./main');
+import("./jquery.js");
+import("./bootstrap.min.js");
+import("./gmaps");
+import("./contact");
+import("./price-range");
+import("./jquery.scrollUp.min.js");
+import("./jquery.prettyPhoto");
+import("./main");
